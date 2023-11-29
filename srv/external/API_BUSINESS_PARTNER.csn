@@ -2,7 +2,7 @@
  "meta": {
   "creator": "cds-dk 7.0.2"
  },
- "$version": "2.0",
+ "$version": "",
  "definitions": {
   "API_BUSINESS_PARTNER": {
    "kind": "service",
